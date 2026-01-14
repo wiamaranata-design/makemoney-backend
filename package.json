@@ -1,9 +1,7 @@
 {
-  "name": "makemoney-backend",
-  "private": true,
   "scripts": {
-    "dev": "tsx watch src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js"
   }
 }
+
