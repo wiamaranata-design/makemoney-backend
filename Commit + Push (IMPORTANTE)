@@ -1,3 +1,0 @@
-git add .
-git commit -m "fix: install express, cors and node types"
-git push
