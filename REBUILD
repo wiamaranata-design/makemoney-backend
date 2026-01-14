@@ -1,3 +1,0 @@
-git add .
-git commit -m "fix: listen on process.env.PORT"
-git push
